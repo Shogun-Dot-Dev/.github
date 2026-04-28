@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/Shogun-Dot-Dev/.github/assets/logo.png](https://shogunn.dev/assets/logo_symbol-CVAV85pn.png)" width="140"/>
+<img src="https://shogunn.dev/assets/logo_symbol-CVAV85pn.png" width="140"/>
 
 # ⚔️ Shogun Dot Dev
 
@@ -28,80 +28,6 @@
 Shogun Dot Dev is a modern software company focused on building scalable, high-performance digital products.
 
 > We transform ideas into powerful systems that drive growth.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shogun-Dot-Dev&show_icons=true&theme=dark&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shogun-dot-dev&theme=dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🚀 Products
-
-### ⚡ Bucketly
-
-<p>
-  <img src="https://img.shields.io/badge/Status-Live-brightgreen"/>
-</p>
-
-Cross-platform S3 file manager with a native desktop experience.
-
-🔗 https://getbucketeer.com/
-
----
-
-## ⭐ Featured Repositories
-
-- 🔹 Bucketly (Core App)
-- 🔹 WashTrack (SaaS Platform)
-- 🔹 Internal Tooling APIs
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-React • TailwindCSS • ShadCN  
-
-**Backend**
-Node.js • C#  
-
-**Infra**
-PostgreSQL • Redis • Cloudflare • Railway  
-
----
-
-## 🧱 Architecture
-
-```mermaid
-graph TD
-A[Frontend - React] --> B[API - Node/Hono]
-B --> C[(PostgreSQL)]
-B --> D[(Redis Cache)]
-B --> E[S3 Storage]
-E --> F[Cloudflare CDN]
-```
-
----
-
-## 🎯 Principles
-
-- Craftsmanship first  
-- Performance matters  
-- Build for scale  
-- Clean architecture  
-
----
-
-## 🤝 Contributing
-
-Open source coming soon.
 
 ---
 
