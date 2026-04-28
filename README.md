@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shogun-dot-dev/.github/assets/logo.png" width="140"/>
+<img src="https://raw.githubusercontent.com/Shogun-Dot-Dev/.github/assets/logo.png" width="140"/>
 
 # ⚔️ Shogun Dot Dev
 
@@ -35,7 +35,7 @@ Shogun Dot Dev is a modern software company focused on building scalable, high-p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shogun-dot-dev&show_icons=true&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shogun-Dot-Dev&show_icons=true&theme=dark&hide_border=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shogun-dot-dev&theme=dark&hide_border=true"/>
 
 </div>
