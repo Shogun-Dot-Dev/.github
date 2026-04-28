@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shogun-dot-dev/.github/main/assets/logo.png" width="140"/>
+<img src="https://raw.githubusercontent.com/shogun-dot-dev/.github/assets/logo.png" width="140"/>
 
 # ⚔️ Shogun Dot Dev
 
